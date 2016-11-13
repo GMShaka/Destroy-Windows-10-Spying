@@ -853,7 +853,7 @@ namespace DWS_Lite
                     "reports.wes.df.telemetry.microsoft.com",
                     "s.gateway.messenger.live.com",
                     "s0.2mdn.net",
-                    "schemas.microsoft.akadns.net ",
+                    "schemas.microsoft.akadns.net",
                     "secure.adnxs.com",
                     "secure.flashtalking.com",
                     "services.wes.df.telemetry.microsoft.com",
@@ -877,7 +877,6 @@ namespace DWS_Lite
                     "telecommand.telemetry.microsoft.com.nsatc.net",
                     "telecommand.telemetry.microsoft.com.nsat­c.net",
                     "telemetry.appex.bing.net",
-                    "telemetry.appex.bing.net:443",
                     "telemetry.microsoft.com",
                     "telemetry.urs.microsoft.com",
                     "ui.skype.com",
@@ -895,7 +894,6 @@ namespace DWS_Lite
                     "watson.telemetry.microsoft.com.nsatc.net",
                     "wes.df.telemetry.microsoft.com",
                     "win10.ipv6.microsoft.com",
-                    "www.msftncsi.com",
                 };
                 var hostslocation = _system32Location + @"drivers\etc\hosts";
                 string hosts = null;
