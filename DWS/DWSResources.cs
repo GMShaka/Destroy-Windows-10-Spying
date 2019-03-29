@@ -266,7 +266,6 @@ namespace DWS
             "a-0007.a-msedge.net",
             "a-0008.a-msedge.net",
             "a-0009.a-msedge.net",
-            "a-0010.a-msedge.net",
             "a-0011.a-msedge.net",
             "a-0012.a-msedge.net",
             "a-msedge.net",
